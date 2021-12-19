@@ -68,8 +68,9 @@ body {
 
         /* image */
         .tdimension {
-         width: 32rem;
-         height: 32rem;
+        width: 30rem;
+        height: 30rem;
+     
            
         margin: auto;
             perspective: 1000px;
@@ -95,7 +96,7 @@ body {
             left: 0;
             bottom: 0;
             width: 100%;
-            height: 3rem;
+            height: 3.5rem;
             background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));    
             transform: rotateX(90deg);
             transform-origin: bottom;
