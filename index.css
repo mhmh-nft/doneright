@@ -26,7 +26,7 @@ body {
    
     text-align: center;
 
-    width: 54rem;
+    width: 59rem;
 
 
     /* 1 pixel black shadow to left, top, right and bottom */
@@ -116,7 +116,7 @@ body {
   /* The typing effect */
   @keyframes typing {
     from { width: 0 }
-    to { width: 54rem }
+    to { width: 59rem }
   }
   
   /* The typewriter cursor effect */
